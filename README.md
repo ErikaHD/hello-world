@@ -1,2 +1,2 @@
 # hello-world
-This is a tester repository
+Hello, I am new here and I am very excited to start this new adventure. 
